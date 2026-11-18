@@ -1,0 +1,14 @@
+.env
+backend/.env
+data_sources
+tests
+backend/tests
+backend/scripts
+backend/data/qdrant_storage
+backend/data/feedback.db
+backend/data/paper_extracted_text.txt
+backend/data/poster_extracted_text.txt
+backend/data/last_audit_report.md
+backend/services/retrieval_service_old.py
+__pycache__
+*.pyc
